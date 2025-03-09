@@ -1,0 +1,5 @@
+io\github\taianmendes\quarkussocial\domain\model\User.class
+io\github\taianmendes\quarkussocial\rest\dto\CreateUserRequest.class
+io\github\taianmendes\quarkussocial\rest\PostResource.class
+io\github\taianmendes\quarkussocial\domain\repository\UserRepository.class
+io\github\taianmendes\GreetingResource.class
