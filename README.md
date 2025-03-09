@@ -1,5 +1,5 @@
 Função
-Crie uma postagem para um usuário, fornecida idao usuário.
+Crie uma postagem para um usuário, fornecida id ao usuário.
 Buscar mensagens de um usuário específico pelo seu id.
 Criar um usuário na re
 Listar todos os usuários cadastrados.
