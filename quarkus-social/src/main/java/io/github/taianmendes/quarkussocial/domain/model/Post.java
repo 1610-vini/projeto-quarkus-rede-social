@@ -1,4 +1,4 @@
-package io.github.taianmendes.quarkussocial.domain.model;
+package io.github.viniciusoliver.quarkussocial.domain.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
